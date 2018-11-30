@@ -1,2 +1,2 @@
 # AirbornePesticideDeliverySystem
-This is an idea of performing Pesticide Delivery through a SpiderCam Mechanism for better safety of the farmers.
+This is an idea (prototype) of performing Pesticide Delivery through a SpiderCam Mechanism for better safety of the farmers.
